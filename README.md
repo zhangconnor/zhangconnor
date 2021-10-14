@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
- [私人笔记本](https://github.com/zhangconnor/notebook.git)
+ [学习笔记](https://github.com/zhangconnor/notebook.git)
 
 <!---
 zhangconnor/zhangconnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
